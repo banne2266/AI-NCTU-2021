@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+*.zip
+*.pgm
+*.jpg
+*.docx
+HW3/test_cases/*
+HW3/layouts/*
+
+
 # C extensions
 *.so
 
