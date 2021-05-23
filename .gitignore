@@ -8,8 +8,7 @@ __pycache__/
 *.pgm
 *.jpg
 *.docx
-HW3/test_cases/*
-HW3/layouts/*
+*.pdf
 
 
 # C extensions
